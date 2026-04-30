@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "asset_url": "https://raw.githubusercontent.com/lee-hyeonwook/classkok-addin-update/main/classKok_ver1.xlam",
-  "sha256": "PUT_REAL_SHA256_HERE",
-  "published_at": "2026-04-30T15:30:00Z"
+  "version": "1.0.0",
+  "asset_url": "https://raw.githubusercontent.com/lee-hyeonwook/classkok-addin-update/main/classKok_pver1.xlam",
+  "sha256": "bb5b100655cd01b14e6728dc3a38bb72f61b4bfbad0d38cb37be306643214d6b",
+  "published_at": "2026-04-30T16:26:51+09:00"
 }
